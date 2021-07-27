@@ -1,3 +1,4 @@
+<a href="https://naughty-yonath-6aa896.netlify.app/">Link to site</a>
 # vue3
 
 ## Project setup
